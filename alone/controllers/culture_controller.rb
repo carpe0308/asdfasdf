@@ -1,0 +1,2 @@
+class CultureController < ApplicationController
+end
